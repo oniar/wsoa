@@ -1,4 +1,5 @@
 <?php 
-	echo "kaixo";
+	echo "kaixo kaixo";
+	echo "hola";
 	phpinfo(); 
 ?>
