@@ -1,0 +1,37 @@
+#bat {
+	position: relative;
+	height: 4cm;
+	
+	width: 675px;
+	
+	background-color: #0C7D7D;
+}
+
+#bi {
+	position: relative;
+	left: 675px;
+	bottom: 4cm;
+	width: 675px;
+	height:4cm;
+	
+	background-color: green;
+}
+
+#hiru {
+	position: relative;
+	
+	bottom: 4cm;
+	
+	height:4cm;
+	
+	background-color: black;
+}
+#lau {
+	position: relative;
+	
+	bottom: 4cm;
+	
+	height:8cm;
+	
+	background-color: yellow;
+}
